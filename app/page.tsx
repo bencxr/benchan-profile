@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       <div className="max-w-4xl p-8 bg-white shadow-lg rounded-lg">
         <div className="text-center">
           <img
-            src="/profile.jpg"
+            src="./profile.jpg"
             alt="Ben Chan"
             width={150}
             height={150}

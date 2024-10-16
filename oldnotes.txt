@@ -1,0 +1,40 @@
+Hi, I'm Ben Chan. 
+
+This is my dweb site. I don't have alot to put on it but wanted to try to create decentralized content. 
+
+---
+
+My social links
+
+Twitter
+Linkedin
+
+---
+
+What I'm interested in, building / funding
+
+A better blockchain user experience through social/passkey wallet login, account abstraction, gas sponsorship, secure recovery, etc or simply meeting the user in the apps they're on
+
+Bridging the gap between the real world and crypto
+
+DeFi and permissionless financial innovation
+
+Security, decentralization, and building applications that remove the middleman and give the users choice
+
+New uses for micropayments and privacy
+
+---
+
+Some of the things I did in the past
+
+Head / VP of Engineering at Chainlink Labs
+Grew a talented engineering team of 250+ building reliable oracle data, scalable automation and cross chain infrastructure. Connected the real world with DeFi, RWAs, NFTs and many decentralized smart contracts. 
+
+CTO at BitGo
+Developed the world's first multisig wallets, wallet SDKs and custodian services powering 15% of global bitcoin tx volume. 
+
+Founding member in WBTC
+We bridged Bitcoin as an asset to Ethereum. Our vision was for it to be inexpensive, transparent with proof of reserves, widely adopted and decentralized. We succeeded in some of those goals. https://twitter.com/loi_luu/status/1823244566457471012
+
+Ether.li
+The first multi-sig native web wallet project for Ethereum, deprecated in 2018. 
